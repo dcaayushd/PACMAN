@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Ghost3 extends StatelessWidget {
+  const Ghost3({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Padding(
