@@ -1,4 +1,4 @@
-class ConstantList {
+class Barriers {
   static List<int> barriers = [
     0,
     1,

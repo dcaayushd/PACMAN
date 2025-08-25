@@ -23,3 +23,7 @@ flutter:
     - assets/images/ghost2.png
     - assets/images/ghost3.png
     - assets/images/pacman.png
+    - assets/sounds/pacman_chomp.wav
+    - assets/sounds/pacman_death.wav
+    - assets/sounds/pacman_intermission.wav
+    - assets/sounds/pacman_beginning.wav  
